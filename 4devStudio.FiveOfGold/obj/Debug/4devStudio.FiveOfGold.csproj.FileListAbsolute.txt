@@ -1,0 +1,7 @@
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\obj\Debug\4devStudio.FiveOfGold.csprojResolveAssemblyReference.cache
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\obj\Debug\4devStudio.FiveOfGold.csproj.CoreCompileInputs.cache
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\bin\Debug\FiveOfGold.exe.config
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\bin\Debug\FiveOfGold.exe
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\bin\Debug\FiveOfGold.pdb
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\obj\Debug\FiveOfGold.exe
+C:\Users\ggayol\source\repos\4devStudio.FiveOfGold\4devStudio.FiveOfGold\obj\Debug\FiveOfGold.pdb
